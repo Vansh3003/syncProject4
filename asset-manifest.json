@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/syncProject4/static/css/main.24b3d75a.css",
+    "main.js": "/syncProject4/static/js/main.2e633428.js",
+    "index.html": "/syncProject4/index.html",
+    "main.24b3d75a.css.map": "/syncProject4/static/css/main.24b3d75a.css.map",
+    "main.2e633428.js.map": "/syncProject4/static/js/main.2e633428.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24b3d75a.css",
+    "static/js/main.2e633428.js"
+  ]
+}
